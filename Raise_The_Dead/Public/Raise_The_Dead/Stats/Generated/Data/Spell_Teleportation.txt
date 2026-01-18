@@ -1,0 +1,7 @@
+new entry "Teleportation_Resurrection"
+type "SpellData"
+data "SpellType" "Teleportation"
+using "Teleportation_Resurrection"
+data "OriginTargetConditions" "not Self() and not Item() and Dead()"
+data "CycleConditions" "not Self() and not Item() and Dead()"
+data "RemoveStatusOnApply" "DEAD"

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="39c3f375-f539-4672-b4e2-bd591293ab1e" />
+					<attribute id="Name" type="LSString" value="AtmosphereTrigger_Basic_000" />
+					<attribute id="LevelName" type="FixedString" value="A" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="TemplateName" type="FixedString" value="14ec1f7b-dfb9-4001-af8f-469b06c1c70f" />
+					<attribute id="Flag" type="uint8" value="1" />
+					<attribute id="FadeTime" type="float" value="4" />
+					<attribute id="Height" type="float" value="273.8451" />
+					<children>
+						<node id="Transform">
+							<attribute id="Scale" type="float" value="1" />
+							<attribute id="Position" type="fvec3" value="7.02809 -100.1306 7.72127" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+						</node>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="1b958851-f832-5678-b6d4-28868fddb034" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="ResourceIDs">
+							<children>
+								<node id="ResourceID">
+									<attribute id="Object" type="FixedString" value="73e03af9-7ab1-47a7-906b-a4e0362045ef" />
+								</node>
+								<node id="ResourceID">
+									<attribute id="Object" type="FixedString" value="468e3ebb-2681-e28a-43d9-01b884caabfa" />
+								</node>
+								<node id="ResourceID">
+									<attribute id="Object" type="FixedString" value="1b400b27-513d-ebc0-a7d7-2e1872b56b91" />
+								</node>
+								<node id="ResourceID">
+									<attribute id="Object" type="FixedString" value="19f10ef6-ac84-db69-869b-33221c6d4d5f" />
+								</node>
+								<node id="ResourceID">
+									<attribute id="Object" type="FixedString" value="c57b488c-fbe4-507d-f7bc-ff61487caf25" />
+								</node>
+							</children>
+						</node>
+						<node id="Points">
+							<attribute id="Object" type="fvec2" value="89.4971 87.22009" />
+						</node>
+						<node id="Points">
+							<attribute id="Object" type="fvec2" value="-105.32 86.59052" />
+						</node>
+						<node id="Points">
+							<attribute id="Object" type="fvec2" value="-105.7012 -95.67017" />
+						</node>
+						<node id="Points">
+							<attribute id="Object" type="fvec2" value="90.10922 -94.70418" />
+						</node>
+						<node id="FadeChildren" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
