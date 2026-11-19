@@ -46,6 +46,10 @@ The Resurrection spell (`Teleportation_Resurrection`) can target any dead charac
 - **No generic fix:** every story NPC in BG3 is scripted by hand, so fixes are added one character at a time. A revived NPC who isn't listed only gets the universal fixes. Requests are welcome.
 
 ---
+### Questions and Requests
+- You can comment on the Mod here: https://rpghq.org/forums/viewtopic.php?p=433654-raise-the-dead-8-0-baldur-s-gate-3#p433654 (I advise not delving into the forum itself, people on that site are unhinged as hell) , note any bugs or put requests whose story flags don't seem to be being applied on being brought back.
+
+---
 
 ## Installation
 1. Install BG3 Script Extender.
